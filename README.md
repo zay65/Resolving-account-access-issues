@@ -28,5 +28,60 @@ Next, select the "Active users" sub-category to view the list of active users wi
 
 <h2> Self-Service Password Reset (SSPR) config </h2>
 
+ <div align="center"> .</div>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%20MS365%201.png" alt="Sample Image"/>
+  </p>
+
+
+
+ <div align="center"> .</div>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%20MS365%202.png" alt="Sample Image"/>
+  </p>
+
+
+
+ <div align="center"> .</div>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%203.png" alt="Sample Image"/>
+  </p>
+
+
+
+
+ <div align="center"> .</div>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%204.png" alt="Sample Image"/>
+  </p>
+
+
+
+
+ <div align="center"> .</div>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%205.png" alt="Sample Image"/>
+  </p>
+
+
+
+
+ <div align="center"> .</div>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%206.png" alt="Sample Image"/>
+  </p>
+
+
+
+
+ 
+
+  
 
 
