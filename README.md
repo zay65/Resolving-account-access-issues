@@ -20,7 +20,7 @@ Next, select the "Active users" sub-category to view the list of active users wi
   </p>
 
 
-  <div align="center"> Finished.</div>
+  <div align="center"> The user(s) password(s) will be reset.</div>
 
  <p align="center">
     <img src="https://github.com/zay65/Resolving-account-access-issues/blob/70655481bdb25604536528231ff897fb1553504e/MS%20Office%20365%20Admin%20Password%20reset%204.png" alt="Sample Image"/>
