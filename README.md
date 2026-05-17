@@ -1,4 +1,5 @@
 # Resolving-account-access-issues
+Hands-on identity and access management demonstrating password resets, self-service password reset (SSPR) configuration, and troubleshooting account access issues in an enterprise-style environment.
 <h2> Password Resets in MS 365 </h2>
 
 
